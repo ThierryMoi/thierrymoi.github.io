@@ -58426,7 +58426,7 @@ K(a){var s,r=null,q="International Data Science Institute",p=t.w
 a.O(p).toString
 s=a.O(p).f.a.a
 p=t.E
-return A.o4(r,A.cK(A.a([A.bY(r,r,s/40),A.cS(A.a([A.bY(r,70,r),A.cK(A.a([new A.kR("Present","Data-354 ","Stagiaire Data Enginieur Stagiaire Data Enginieur Stagiaire Data Enginieur",r)],p),B.p,B.o,B.N),A.cK(A.a([new A.kR("2022-2023",q,"deuxieme ann\xe9e en Data Science Big-Data Intelligence Artificielle",r)],p),B.p,B.o,B.N)],p),B.p,B.o),A.bY(r,r,s/8),A.cS(A.a([A.bY(r,70,r),A.cK(A.a([new A.kR("2021-2022",q,"Premiere ann\xe9e en Data Science Big-Data Intelligence Artificielle",r)],p),B.p,B.o,B.N),A.cK(A.a([new A.kR("2020-2021","Nazy-Boni Licence-3","Au cour de cette ann\xe9e j'ai obtenu ma Licence en Statistique Informatique avec la mention Tr\xe8s-Bien.",r)],p),B.p,B.o,B.N)],p),B.p,B.o)],p),B.p,B.o,B.N),r,r)}}
+return A.o4(r,A.cK(A.a([A.bY(r,r,s/40),A.cS(A.a([A.bY(r,70,r),A.cK(A.a([new A.kR("A Pr\xe9sent","Data-354 ","Stagiaire Data Enginieur ",r)],p),B.p,B.o,B.N),A.cK(A.a([new A.kR("2022-2023",q,"deuxieme ann\xe9e en Data Science Big-Data Intelligence Artificielle",r)],p),B.p,B.o,B.N)],p),B.p,B.o),A.bY(r,r,s/8),A.cS(A.a([A.bY(r,70,r),A.cK(A.a([new A.kR("2021-2022",q,"Premiere ann\xe9e en Data Science Big-Data Intelligence Artificielle",r)],p),B.p,B.o,B.N),A.cK(A.a([new A.kR("2020-2021","Nazy-Boni Licence-3","Au cour de cette ann\xe9e j'ai obtenu ma Licence en Statistique Informatique.",r)],p),B.p,B.o,B.N)],p),B.p,B.o)],p),B.p,B.o,B.N),r,r)}}
 A.kR.prototype={
 K(a){var s,r,q,p,o=null,n=t.w,m=a.O(n).f.a.b
 n=a.O(n).f
